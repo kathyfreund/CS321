@@ -1,0 +1,9 @@
+C:\Users\kathe\Desktop\CS321\HW3\HW3\HW3\bin\Debug\HW3.exe.config
+C:\Users\kathe\Desktop\CS321\HW3\HW3\HW3\bin\Debug\HW3.exe
+C:\Users\kathe\Desktop\CS321\HW3\HW3\HW3\bin\Debug\HW3.pdb
+C:\Users\kathe\Desktop\CS321\HW3\HW3\HW3\obj\Debug\HW3.csprojResolveAssemblyReference.cache
+C:\Users\kathe\Desktop\CS321\HW3\HW3\HW3\obj\Debug\HW3.Form1.resources
+C:\Users\kathe\Desktop\CS321\HW3\HW3\HW3\obj\Debug\HW3.Properties.Resources.resources
+C:\Users\kathe\Desktop\CS321\HW3\HW3\HW3\obj\Debug\HW3.csproj.GenerateResource.Cache
+C:\Users\kathe\Desktop\CS321\HW3\HW3\HW3\obj\Debug\HW3.exe
+C:\Users\kathe\Desktop\CS321\HW3\HW3\HW3\obj\Debug\HW3.pdb
