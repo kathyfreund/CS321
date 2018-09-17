@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spreadsheet", "Spreadsheet\Spreadsheet.csproj", "{5B2DB86E-ACAB-4185-8D88-0D9FFE40FAA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpreadsheetEngine", "SpreadsheetEngine\SpreadsheetEngine.csproj", "{CA835575-C4C5-4040-8414-A358F27FDCBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpTreeTesting", "ExpTreeTesting\ExpTreeTesting.csproj", "{79B02EA3-D4FA-4E11-A953-5CE427B69C1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B2DB86E-ACAB-4185-8D88-0D9FFE40FAA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B2DB86E-ACAB-4185-8D88-0D9FFE40FAA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B2DB86E-ACAB-4185-8D88-0D9FFE40FAA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B2DB86E-ACAB-4185-8D88-0D9FFE40FAA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA835575-C4C5-4040-8414-A358F27FDCBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA835575-C4C5-4040-8414-A358F27FDCBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA835575-C4C5-4040-8414-A358F27FDCBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA835575-C4C5-4040-8414-A358F27FDCBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79B02EA3-D4FA-4E11-A953-5CE427B69C1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79B02EA3-D4FA-4E11-A953-5CE427B69C1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79B02EA3-D4FA-4E11-A953-5CE427B69C1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79B02EA3-D4FA-4E11-A953-5CE427B69C1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
